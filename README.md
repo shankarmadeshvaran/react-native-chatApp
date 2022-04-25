@@ -3,7 +3,7 @@
 This is a simple Chat app that lets you chat with user/friends using Firebase.
 
 <p align="center">
-  <img src="https://github.com/shankarmadeshvaran/Puzzle/blob/master/puzzle.gif" width="30%"/>
+  <img src="https://github.com/shankarmadeshvaran/react-native-chatApp/blob/main/Demo/chatAppDemo.gif" width="30%"/>
 </p>
 
 ## More Updates
